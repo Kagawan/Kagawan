@@ -1,16 +1,24 @@
-## Hi there 👋
+### 🙂 About me
+I am looking for a job as a Java developer. Ready to participate in an interview or complete a test assignment. I have completed Java programming courses and projects during my studies, which have provided me with a strong foundation in Java programming and software development principles which I am ready to put into practice. I would like to join a team of professionals and contribute to the growth of projects. I am open to feedback and willing to work to improve my skills and be helpful to the team.
 
-<!--
-**Kagawan/Kagawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🛠️ Tools
 
-Here are some ideas to get you started:
+### 🖥 Applied:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java Core, Java Collections Framework
+* Javalin Frameworks
+* Test Automation by JUnit5
+* Work with Git, GitHub, CI/CD (GitHub Action)
+* Bash, building projects with Gradle
+* HTML, CSS (basics)
+
+### 🏫 Fundamental:
+
+* OOP and SOLID principles
+* Test-Driven Development (TDD)
+* Work with data bases, SQL
+* Refactoring
+
+### ☎️ Contacts:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Rashid_237)
