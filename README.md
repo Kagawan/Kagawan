@@ -24,5 +24,7 @@ I am looking for a job as a Java developer. Ready to participate in an interview
 ### 🧰 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Kagawan&repo=java-project-71)](https://github.com/Kagawan/java-project-71)
 
-### ☎️ Contacts:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Rashid_237)
+### Contacts:
+- 🌍 I'm based in Kazan, Russia.
+- ✉️ You can contact me at [rashid.mukatdisov@mail.ru](rashid.mukatdisov@mail.ru) or [@Rashid_237](https://t.me/Rashid_237)
+- 🧠 I'm learning Java
