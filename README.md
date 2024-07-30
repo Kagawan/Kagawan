@@ -21,10 +21,11 @@ I am looking for a job as a Java developer. Ready to participate in an interview
 * Refactoring
 
 --------------
-### 🧰 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Kagawan&repo=java-project-71)](https://github.com/Kagawan/java-project-71)
-
 ### Contacts:
 - 🌍 I'm based in Kazan, Russia.
 - ✉️ You can contact me at [rashid.mukatdisov@mail.ru](rashid.mukatdisov@mail.ru) or [@Rashid_237](https://t.me/Rashid_237)
 - 🧠 I'm learning Java
+## Relevant courses
+- Java-developer, Hexlet
+
+ You may see my pet projects below in pinned. 
