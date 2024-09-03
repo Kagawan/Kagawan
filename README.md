@@ -6,9 +6,11 @@ I am looking for a job as a Java developer. Ready to participate in an interview
 
 ### 🖥 Applied:
 
+* Spring Data, Spring Web, Spring Security
+* PostgreSQL
 * Java Core, Java Collections Framework
-* Javalin Frameworks
-* Test Automation by JUnit5
+* Java SE, Java EE
+* JUnit5 и AssertJ
 * Work with Git, GitHub, CI/CD (GitHub Action)
 * Bash, building projects with Gradle
 * HTML, CSS (basics)
