@@ -1,6 +1,3 @@
-### 🙂 About me
-I am looking for a job as a Java developer. Ready to participate in an interview or complete a test assignment. I have completed Java programming courses and projects during my studies, which have provided me with a strong foundation in Java programming and software development principles which I am ready to put into practice. I would like to join a team of professionals and contribute to the growth of projects. I am open to feedback and willing to work to improve my skills and be helpful to the team.
-
 ---
 ### 🛠️ Tools
 
